@@ -1,16 +1,5 @@
 # csDetector--replicationPackage
-
-## csDetector Overview
-
-The purpose of this tool is twofold:
-
-1. Contribute to the list of existing community smells that developers need to be aware of in their community.
-2. Provide developers with a tool to automatically detect community smells in their project. 
-
-### Data description : 
-The most effected metrics that the tool extracted as following: 
-
-
+ 
 #### Developer Contributions metrics 
 
 ```NoD ```: Number of developers
