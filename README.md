@@ -55,7 +55,7 @@
 
 ```ADC``` : Average number of Developers per Community
 
-```SDC``` : Standard deviation of Developers per Community
+```SDoC``` : Standard deviation of Developers per Community
 
 ####  Geographic Dispersion metrics 
 
